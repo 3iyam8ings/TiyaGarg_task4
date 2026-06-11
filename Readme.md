@@ -21,6 +21,7 @@ This project is a simple webpage created using HTML and CSS. It displays an imag
 * CSS3
 
 ## Deployed link 
+https://3iyam8ings.github.io/TiyaGarg_task4/
 
 The webpage displays:
 
